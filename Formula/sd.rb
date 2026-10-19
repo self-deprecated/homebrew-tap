@@ -1,8 +1,8 @@
 class Sd < Formula
   desc "Project task dispatcher for .sd/tasks.yaml manifests"
   homepage "https://github.com/self-deprecated/sd"
-  url "https://github.com/self-deprecated/sd/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "6539c611a3be449be314252b3c86c2403dc9e0090eb959d675f29e74d754218a"
+  url "https://github.com/self-deprecated/sd/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "b92eca41bbd92b920ed07961a2efc4e0587eb9c8972a3b5a66ae23c3cb812423"
   license "MIT"
   head "https://github.com/self-deprecated/sd.git", branch: "main"
 
